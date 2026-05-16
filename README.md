@@ -218,21 +218,6 @@ Em situações sem conexão:
 * Wireframe de baixa fidelidade
 
 ---
-
-# Estrutura do Repositório
-
-```bash id="tw2z9m"
-ihcux-conectabus-cidade/
-│
-├── prototipo/
-│   ├── prototipo.png
-│   └── prototipo.pdf
-│
-└── README.md
-```
-
----
-
 # Como Visualizar
 
 1. Acesse a pasta `/prototipo`
