@@ -3,6 +3,11 @@
 Projeto desenvolvido para a disciplina de Interação Humano Computador e UX do Centro Universitário UNA.
 
 ---
+# aluna
+
+Laura chagas faria
+
+---
 ## projeto
 
 
